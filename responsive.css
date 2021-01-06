@@ -1,0 +1,427 @@
+@media (min-width: 0px) and (max-width: 587px) {
+  /* ヘッダー */
+  nav {
+    width: 100%;
+  }
+  h1 {
+    font-size: 24px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 16px;
+  }
+  .content-menu p {
+    font-size: 16px;
+  }
+  li {
+    font-size: 10px;
+  }
+  nav ul {
+    width: 50%;
+  }
+  td,
+  th {
+    font-size: 12px;
+  }
+  /* トップ */
+  .container {
+    height: 400px;
+  }
+  .image-container {
+    width: 100%;
+    height: 400px;
+  }
+  .image-container p {
+    font-size: 23px;
+  }
+  .image-container-w {
+    width: 100%;
+    margin-top: 48px;
+  }
+  /* メニュー */
+  .contents {
+    width: 100%;
+    height: 432px;
+  }
+  .contents-menu {
+    width: 100%;
+    display: block;
+  }
+  .content-menu {
+    width: 158px;
+    height: 170px;
+    padding-top: 12px;
+    margin-left: 0;
+  }
+  .image-ice,
+  .image-hot,
+  .image-sand,
+  .image-dessert {
+    width: 136px;
+    height: 136px;
+  }
+  .contents-two {
+    display: flex;
+    justify-content: space-evenly;
+    height: 200px;
+  }
+  /* サービス */
+  .service {
+    width: 100%;
+    height: 800px;
+  }
+  .service-point,
+  .service-gift {
+    width: 100%;
+    height: 100%;
+    padding-top: 8px;
+  }
+  .service-gift p {
+    font-size: 15px;
+}
+  .service-contents {
+    display: block !important;
+  }
+  .image-point,
+  .image-gift {
+    width: 300px;
+    height: 180px;
+  }
+  /* 店舗検索 */
+  .table {
+    width: 100%;
+    height: 360px;
+  }
+  .access {
+    width: 100%;
+    height: auto;
+  }
+  iframe {
+    width: 100%;
+    height: 356px;
+  }
+  .access-all {
+    display: block;
+  }
+  table {
+    width: auto;
+    height: auto;
+  }
+  .goodle-map {
+    width: 100%;
+  }
+  /* フッター */
+  footer a {
+    position: absolute;
+    top: 16px;
+    left: 36%;
+  }
+  footer p {
+    position: absolute;
+    top: 96px;
+    left: 20%;
+  }
+    
+}
+
+@media (min-width: 588px) and (max-width: 815px) {
+  nav {
+    width: 100%;
+  }
+  h1 {
+    font-size: 28px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  h3,
+  .content-menu p {
+    font-size: 14px;
+  }
+  li {
+    font-size: 12px;
+  }
+  nav ul {
+    width: 50%;
+  }
+  td,
+  th {
+    font-size: 12px;
+  }
+  /* トップ */
+  .image-container {
+    width: 100%;
+    height: 400px;
+  }
+  .image-container p {
+    font-size: 24px;
+  }
+  .image-container-w {
+    width: 450px;
+    margin-top: 48px;
+  }
+  /* メニュー */
+  .contents {
+    width: 100%;
+    height: auto;
+  }
+  .contents-menu {
+    width: 100%;
+    display: block;
+  }
+  .content-menu {
+    width: 200px;
+    height: 216px;
+    padding-top: 12px;
+    margin-left: 0;
+  }
+  .image-ice,
+  .image-hot,
+  .image-sand,
+  .image-dessert {
+    width: 176px;
+    height: 176px;
+  }
+  .contents-two {
+    display: flex;
+    justify-content: space-evenly;
+    height: 260px;
+  }
+  /* サービス */
+  .service {
+    width: 100%;
+    height: auto;
+  }
+  .service-point,
+  .service-gift {
+    width: 100%;
+    height: 100%;
+    padding-top: 8px;
+  }
+  .service-contents {
+    display: block !important;
+  }
+  .image-point,
+  .image-gift {
+    width: 300px;
+    height: 180px;
+  }
+  /* 店舗検索 */
+  .access {
+    width: 100%;
+    height: auto;
+  }
+  iframe {
+    width: 100%;
+    height: 356px;
+  }
+  .access-all {
+    display: block;
+  }
+  table {
+    width: auto;
+    height: auto;
+  }
+  /* お問い合わせ */
+}
+
+@media (min-width: 816px) and (max-width: 1122px) {
+  nav {
+    width: 100%;
+  }
+  h1 {
+    font-size: 32px;
+  }
+  h2 {
+    font-size: 28px;
+  }
+  h3,
+  .content-menu p {
+    font-size: 18px;
+  }
+  li {
+    font-size: 16px;
+  }
+  nav ul {
+    width: 40%;
+  }
+  td,
+  th {
+    font-size: 16px;
+  }
+  /* トップ */
+  .image-container {
+    width: 100%;
+    height: 400px;
+  }
+  .image-container p {
+    font-size: 28px;
+  }
+  .image-container-w {
+    width: 500px;
+    margin-top: 48px;
+  }
+  /* メニュー */
+  .contents {
+    width: 100%;
+    height: auto;
+  }
+  .contents-menu {
+    width: 100%;
+  }
+  .content-menu {
+    width: 200px;
+    height: 216px;
+    padding-top: 12px;
+    margin-left: 30px;
+  }
+  .image-ice,
+  .image-hot,
+  .image-sand,
+  .image-dessert {
+    width: 176px;
+    height: 176px;
+  }
+  .contents-two {
+    display: flex;
+    justify-content: space-evenly;
+    height: 260px;
+  }
+  /* サービス */
+  .service {
+    width: 100%;
+    height: auto;
+  }
+  .service-point,
+  .service-gift {
+    width: 100%;
+    height: 100%;
+    padding-top: 8px;
+  }
+  .service-contents {
+    display: block !important;
+  }
+  .image-point,
+  .image-gift {
+    width: 300px;
+    height: 180px;
+  }
+  /* 店舗検索 */
+  .access {
+    width: 100%;
+    height: auto;
+  }
+  iframe {
+    width: 100%;
+    height: 356px;
+  }
+  .access-all {
+    display: block;
+  }
+  table {
+    width: auto;
+    height: auto;
+  }
+  /* お問い合わせ */
+}
+
+@media (min-width: 1123px) {
+  nav {
+    width: 100%;
+  }
+  h1 {
+    font-size: 32px;
+    padding-left: 32px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  h3,
+  .content-menu p {
+    font-size: 24px;
+  }
+  li {
+    font-size: 16px;
+  }
+  nav ul {
+    width: 40%;
+  }
+  td,
+  th {
+    font-size: 16px;
+  }
+  /* トップ */
+  .image-container {
+    width: 100%;
+    height: 750px;
+  }
+  .image-container p {
+    font-size: 40px;
+  }
+  .image-container-w {
+    width: 100%;
+    margin-top: 48px;
+  }
+  /* メニュー */
+  .contents {
+    width: 100%;
+    height: 416px;
+  }
+  .contents-menu {
+    width: 90%;
+    display: flex;
+    margin: 0 auto;
+  }
+  .content-menu {
+    width: 300px;
+    height: 324px;
+    padding-top: 24px;
+  }
+  .image-ice,
+  .image-hot,
+  .image-sand,
+  .image-dessert {
+    width: 256px;
+    height: 256px;
+  }
+  .contents-two {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    height: 324px;
+  }
+  /* サービス */
+  .service {
+    width: 100%;
+    height: 560px;
+  }
+  .service-point,
+  .service-gift {
+    width: 50%;
+    height: 450px;
+    padding-top: 8px;
+  }
+  .service-contents {
+    display: flex!important;
+  }
+  .image-point,
+  .image-gift {
+    width: 400px;
+    height: 240px;
+  }
+  /* 店舗検索 */
+  .access {
+    width: 100%;
+    height: 560px;
+  }
+  iframe {
+    width: 600px;
+    height: 450px;
+    margin: 2% 0 0 12%;
+  }
+  .access-all {
+    display: flex;
+  }
+}
