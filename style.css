@@ -41,7 +41,7 @@ h2 {
   height: 750px;
 }
 .image-container {
-  background-image: url("../image/coffee-shop.jpg");
+  background-image: url("https://masapuro.github.io/coffee-shop/coffee-shop.jpg");
   height: 600px;
   width: 100%;
   background-repeat: no-repeat;
